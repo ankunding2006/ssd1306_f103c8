@@ -23,7 +23,7 @@
 
 #include "ssd1306_defines.h"
 #include "fonts.h"
-#include "main.h"
+#include "ssd1306_hw.h"
 #include <stdlib.h>
 #include <string.h>
 
